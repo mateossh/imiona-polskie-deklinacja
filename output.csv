@@ -1,4 +1,4 @@
-name,sex,declination_json
+name;sex;declination_json
 Ada;f;"{"nominativus": {"s": "Ada", "pl": "Ady"}, "genetivus": {"s": "Ady", "pl": "Ad"}, "dativus": {"s": "Adzie", "pl": "Adom"}, "accusativus": {"s": "Adę", "pl": "Ady"}, "instrumentalis": {"s": "Adą", "pl": "Adami"}, "locativus": {"s": "Adzie", "pl": "Adach"}, "vocativus": {"s": "Ado", "pl": "Ady"}}"
 Adela;f;"{"nominativus": {"s": "Adela", "pl": "Adele"}, "genetivus": {"s": "Adeli", "pl": "Adeli"}, "dativus": {"s": "Adeli", "pl": "Adelom"}, "accusativus": {"s": "Adelę", "pl": "Adele"}, "instrumentalis": {"s": "Adelą", "pl": "Adelami"}, "locativus": {"s": "Adeli", "pl": "Adelach"}, "vocativus": {"s": "Adelu", "pl": "Adele"}}"
 Adelajda;f;"{"nominativus": {"s": "Adelajda", "pl": "Adelajdy"}, "genetivus": {"s": "Adelajdy", "pl": "Adelajd"}, "dativus": {"s": "Adelajdzie", "pl": "Adelajdom"}, "accusativus": {"s": "Adelajdę", "pl": "Adelajdy"}, "instrumentalis": {"s": "Adelajdą", "pl": "Adelajdami"}, "locativus": {"s": "Adelajdzie", "pl": "Adelajdach"}, "vocativus": {"s": "Adelajdo", "pl": "Adelajdy"}}"
